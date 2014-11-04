@@ -39,7 +39,8 @@
     "broccoli-file-mover": "0.3.6"
   },
   "devDependencies": {
+    "assert": "1.1.2",
     "mocha": "1.21.4",
-    "assert": "1.1.2"
+    "sinon": "1.11.1"
   }
 }
